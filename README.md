@@ -7,3 +7,5 @@ Introduction to the development of algorithms for computer systems processing. E
 - [Project 1]()
 - [Project 3]()
 - [Project 4]()
+- [Project 5]()
+- [Project 6]()

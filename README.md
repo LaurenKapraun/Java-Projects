@@ -9,3 +9,11 @@ Introduction to the development of algorithms for computer systems processing. E
 - [Project 4]()
 - [Project 5]()
 - [Project 6]()
+
+## IT 178 - Computer Application Programming
+The design, development, and implementation of computer application systems, including files and GUI.
+
+### Projects
+- [DrawShape]()
+  - This java class has a user hit either the "Add Circle" or "Add Square" button to create new circles or squares.
+- [DrawShape]()

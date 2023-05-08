@@ -25,3 +25,5 @@ The design, development, and implementation of computer application systems, inc
 - [Linked List]()
 - [Event Ticket Program]()
   - This java program sells and displays tickets for an event.
+- [Swimmer Program]()
+  - This java program keeps record of the results of one event in a swimming competition.

@@ -27,3 +27,7 @@ The design, development, and implementation of computer application systems, inc
   - This java program sells and displays tickets for an event.
 - [Swimmer Program]()
   - This java program keeps record of the results of one event in a swimming competition.
+- [Train & Plane Tickets Program]()
+  - This java program manages the selling of train and plane tickets.
+- [Airplane Reservation Program]()
+  - This java program creates a GUI application for an airplane reservation system.

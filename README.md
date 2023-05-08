@@ -20,3 +20,5 @@ The design, development, and implementation of computer application systems, inc
 - [Exception Exercise 2]()
 - [Stopwatch]()
   - This java class has a user hit enter to start and stop the stopwatch.
+- [House Graphics]()
+  - This java class draws a house using shapes and JFrame.

@@ -22,3 +22,6 @@ The design, development, and implementation of computer application systems, inc
   - This java class has a user hit enter to start and stop the stopwatch.
 - [House Graphics]()
   - This java class draws a house using shapes and JFrame.
+- [Linked List]()
+- [Event Ticket Program]()
+  - This java program sells and displays tickets for an event.

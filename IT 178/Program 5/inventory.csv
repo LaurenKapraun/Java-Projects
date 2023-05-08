@@ -1,0 +1,40 @@
+Year,Make,Model,Price,Condition,Rating,Status,VIN,First,Last,Address,City,State,Zip,Email,Phone
+1993,Toyota,Supra,37000,Excellent,9,Sold,1TY48574,Johnathon,Smushki,823289 Chatham Lane,Bloomington,IL,61705,john@gmail.com,3095551212
+1998,Toyota,Supra,45000,Perfect,10,Available,2TY09275,,,,,,,,
+1991,Toyota,MR2 Turbo,6500,Good,7,Sold,3TY09926,Dylan,Tolone,9182 Jackson Way,Toluca,IL,61887,dtol@gmail.com,8156667777
+1983,Toyota,AE86,10750,Fair,6,On Hold,1TY02886,,,,,,,,
+2013,Scion,FRS,12000,Good,8,Available,1SC55345,,,,,,,,
+2003,Nissan,350z,6000,Good,7,Available,1NI46937,,,,,,,,
+2004,Nissan,350z,9000,Excellent,9,Available,1NI22987,,,,,,,,
+2015,Nissan,370z,26000,Excellent,9,Sold,1NI49327,Nicio,Atensbury,10123 Waterson Rd,Normal,IL,61761,nic@gmail.com,3097778888
+1998,Nissan,Skyline GT-R,105000,Perfect,10,Sold,1NI54539,Carson,Schaefer,123 Main St,St Louis,MO,76543,schaef@gmail.com,3095557777
+2017,Honda,Civic Type-R,32000,Perfect,10,Available,1HO05480,,,,,,,,
+2001,Honda,S2000,10000,Good,8,Available,2HO55739,,,,,,,,
+2004,Honda,S2000,11500,Good,8,Available,1HO43390,,,,,,,,
+1993,Honda,NSX,43500,Good,8,Sold,1HO66393,Martine,Kreckel,999 Whump,Chicago,IL,60606,mk@gmail.com,6309992222
+2017,Chevrolet,Corvette,55500,Good,8,Available,1CH82221,,,,,,,,
+1979,Chevrolet,Corvette,7500,Fair,6,On Hold,2CH82569,,,,,,,,
+1963,Chevrolet,Corvette,43600,Good,7,Available,1CH92738,,,,,,,,
+1971,Chevrolet ,Camaro ,20800,Poor,4,Available,1CH87756,,,,,,,,
+1983,Chevrolet,Camaro ,9500,Fair,6,Available,2CH86752,,,,,,,,
+1959,Chevrolet,Impala,52550,Fair,6,Available,1CH88921,,,,,,,,
+1957,Chevrolet,Bel Air,12900,Bad,2,Available,2CH54387,,,,,,,,
+1991,Mazda,Miata,3500,Fair,6,Available,1MZ22387,,,,,,,,
+2001,Mazda,Miata,4200,Good,8,Available,1MZ56803,,,,,,,,
+2017,Mazda,Miata,22000,Excellent,9,Sold,2MZ88016,Grace,Telemaster,192 Washington,Elmhurst,IL,60126,gtele@gmail.com,7128167599
+1986,Mazda,RX-7,2250,Poor,3,Available,1MZ32311,,,,,,,,
+1993,Mazda,RX-7,15500,Good,7,Available,2MZ88216,,,,,,,,
+1959,Triumph,TR3,34999,Good,7,Available,1TR72162,,,,,,,,
+1969,Ford,Mustang,23000,Excellent,9,Available,1FD18722,,,,,,,,
+2009,Ford,Mustang GT,43000,Fair,5,Available,1FD89187,,,,,,,,
+2013,Ford,F150 Raptor,37999,Excellent,9,Available,2FD45673,,,,,,,,
+2006,Subaru,WRX STI,9500,Good,8,Available,1SU22922,,,,,,,,
+2014,Subaru,WRX STI,26000,Very Good,7,Available,1SU81162,,,,,,,,
+2017,Subaru,WRX STI,29999,Excellent,9,Available,2SU66892,,,,,,,,
+2014,Subaru,BRZ,13500,Good,8,Available,2SU11028,,,,,,,,
+1987,Porsche,944,2500,Fair,5,Available,1PO82710,,,,,,,,
+2001,Porsche,911,20500,Good,7,Sold,1PO18377,Matthias,Dennison,2 Everett,Jameston,MO,2322,matden@gmail.com,2028763333
+2004,Porsche,Boxster,8500,Good,7,Available,2PO82673,,,,,,,,
+1982,Porsche,924,3100,Fair,5,Available,2PO73569,,,,,,,,
+2005,Mitsubishi,Evo,12500,Good,7,Available,1MI19283,,,,,,,,
+2009,Mitsubishi,Evo,15500,Good,8,Available,1MI82917,,,,,,,,
